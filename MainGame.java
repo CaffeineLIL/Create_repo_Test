@@ -35,7 +35,12 @@ public class MainGame {
         int enemy2_Posture = normalStage.stage[1].posture; //적 1의 강인도
 
 
+        
+        System.out.println("깃허브에 나도 이제 새로운 개발사항 올린다 야호 으하하하");
+        System.out.println("시험공부 해야하는데 증말로다가 하기싫다 하하 종강해라 하하!");
 
+        
+        
         System.out.println("고블린 동굴 토벌-20234031 이승호");
         System.out.println("게임 시작");
      
